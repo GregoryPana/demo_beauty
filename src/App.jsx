@@ -21,7 +21,7 @@ import epsonLogo from './assets/brands/epson.png'
 
 const brandName = 'SeyKelz'
 const tagline = 'Printer Toner Sales & Ordering'
-const siteUrl = 'http://localhost:5173'
+const siteUrl = 'https://sey-kelz.horizondigitalsey.com'
 
 const contactInfo = {
   phone: '+248 2587146',
