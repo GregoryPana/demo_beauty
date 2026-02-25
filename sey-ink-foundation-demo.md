@@ -1,14 +1,14 @@
-# Island Ink Toner
+# SeyKelz
 
 **Foundation Package Demo – Horizon Digital**  
-Location: Victoria, Mahe, Seychelles  
-Business Model: Delivery-Based Printer Toner Supplier
+Location: Victoria, Seychelles  
+Business Model: Printer Toner Sales & Ordering
 
 ---
 
 # 1. Project Overview
 
-Island Ink Toner is a delivery-based printer toner supplier operating in Mahe, Seychelles. The business supplies genuine and compatible toner cartridges for major printer brands and operates primarily through WhatsApp ordering.
+SeyKelz is a printer toner sales and ordering business operating in Seychelles. The business supplies genuine and compatible toner cartridges for major printer brands and operates primarily through WhatsApp ordering.
 
 This demo represents a **Foundation Package website** and strictly follows Foundation constraints:
 
@@ -30,15 +30,15 @@ The purpose of this demo is to demonstrate a clean, professional, structured ent
 
 ## Business Name
 
-Island Ink Toner
+SeyKelz
 
 ## Tagline
 
-Printer Toner Delivered Across Mahe
+Printer Toner Sales & Ordering
 
 ## Positioning Statement
 
-Island Ink Toner provides reliable delivery of genuine and compatible printer toner cartridges across Mahe. Customers order via WhatsApp and receive convenient delivery to their location.
+SeyKelz sells genuine and compatible printer toner cartridges. Customers order via WhatsApp, with delivery available for some orders.
 
 ## Target Customers
 
@@ -79,11 +79,11 @@ The homepage follows the standard Foundation template layout.
 
 ### Headline
 
-Printer Toner Delivered Across Mahe
+Printer Toner Sales & Ordering
 
 ### Subtext
 
-Genuine and compatible toner cartridges for major printer brands. Fast and reliable delivery across Mahe.
+Genuine and compatible toner cartridges for major printer brands. Delivery is available for some orders.
 
 ### Primary CTA
 
@@ -108,7 +108,7 @@ Three-step layout:
 
 1. Send us your printer model on WhatsApp
 2. We confirm availability and pricing
-3. We deliver to your location in Mahe
+3. Delivery available for some orders
 
 Purpose:
 Clarifies the business model and reduces friction.
@@ -128,9 +128,9 @@ We supply toner cartridges compatible with leading printer brands commonly used 
 
 ---
 
-## Section 4: Why Choose Island Ink
+## Section 4: Why Choose SeyKelz
 
-- Delivery across Mahe
+- Optional delivery
 - Genuine and compatible options available
 - Competitive local pricing
 - Quick response via WhatsApp
@@ -160,8 +160,8 @@ Include:
 - WhatsApp number
 - Email address
 - Operating hours
-- Based in Victoria, Mahe
-- Delivery across Mahe
+- Based in Victoria, Seychelles
+- Delivery available for some orders
 
 No map embed (no physical storefront).
 
@@ -173,19 +173,19 @@ This page strengthens SEO and credibility.
 
 ## Intro Paragraph
 
-Island Ink Toner supplies compatible and genuine toner cartridges for popular printer brands used in homes and businesses across Mahe.
+SeyKelz supplies compatible and genuine toner cartridges for popular printer brands used in homes and businesses across Seychelles.
 
 ---
 
 ## Brand Sections
 
-### HP Toner Cartridges in Mahe
+### HP Toner Cartridges
 
 We supply toner cartridges suitable for a wide range of HP laser printers. Contact us with your printer model for availability confirmation.
 
 ### Canon Toner Cartridges in Seychelles
 
-Reliable toner options for Canon printers, available for delivery across Mahe.
+Reliable toner options for Canon printers, available for delivery services.
 
 ### Brother Toner Cartridges
 
@@ -204,7 +204,7 @@ This is not an e-commerce site. No SKU listings or cart functionality.
 
 ## Header
 
-Contact Island Ink Toner
+Contact SeyKelz
 
 ## Sections
 
@@ -220,8 +220,8 @@ Prominently displayed at the top.
 
 ### Location
 
-Based in Victoria, Mahe  
-Delivery across Mahe
+Based in Victoria, Seychelles  
+Delivery services available
 
 ### Operating Hours
 
@@ -264,11 +264,11 @@ Avoid:
 
 Target natural keyword integration:
 
-- Printer toner in Mahe
-- Toner delivery Seychelles
-- HP toner Mahe
+- Printer toner sales Seychelles
+- Best prices toner Seychelles
+- HP toner Seychelles
 - Canon toner Seychelles
-- Buy toner in Mahe
+- Toner cartridges Seychelles
 
 Use naturally in headings and body text. No keyword stuffing.
 

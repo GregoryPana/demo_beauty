@@ -1,0 +1,365 @@
+1) Design Goals
+
+Primary goal: get visitors to click “Order on WhatsApp”.
+Secondary goals: trust + clarity (brands supported, how ordering works, quick contact).
+
+This site should feel:
+
+Fast
+
+Clear
+
+Legit
+
+Modern
+
+Not overdesigned
+
+2) Information Architecture
+
+3 pages (Foundation constraint):
+
+Home
+
+Toner Brands
+
+Contact
+
+And one consistent top navigation across all pages.
+
+3) Visual Identity
+Color System (CMYK-inspired, printer-friendly)
+
+Use a neutral base + CMYK accents. Keep the colour controlled so it stays professional.
+
+Base
+
+Background: off-white / very light grey (so the colours pop)
+
+Text: near-black (high contrast)
+
+Cards: white with light borders
+
+Accents (CMYK)
+
+Cyan: used for primary buttons/links highlights
+
+Magenta: used for secondary accents (badges, small highlights)
+
+Yellow: used sparingly (icons, small emphasis, caution/attention)
+
+Black: used as a strong anchor (headings, nav, footer)
+
+Important rule:
+Don’t plaster all four colours everywhere. Use one primary accent (Cyan) and the others as support accents.
+
+Suggested palette (conceptual)
+
+Ink Black (primary text)
+
+Soft Grey (background + borders)
+
+Cyan (primary action)
+
+Magenta (secondary highlight)
+
+Yellow (micro-accent / info chips)
+
+4) Typography
+
+Toner is utilitarian. Typography should be modern and readable.
+
+Headings: strong sans-serif (bold, slightly condensed feel)
+Body: clean sans-serif (comfortable line height)
+
+Style cues:
+
+Headlines should look “tech / supply”
+
+Body text should be calm and clear
+
+5) Layout System
+Grid
+
+Desktop: 12-column grid
+
+Max width: ~1100–1200px
+
+Large padding (breathing room)
+
+Shape language
+
+Rounded corners (medium)
+
+Soft shadows (very subtle)
+
+Crisp borders (light grey)
+
+This makes it feel modern and “real” without needing complex visuals.
+
+6) Core Components (Reusable)
+
+These are the components you’ll reuse across pages:
+
+A) Top Navbar
+
+Elements:
+
+Left: Logo (SeyKelz)
+
+Middle: Links (Home, Toner Brands, Contact)
+
+Right: WhatsApp CTA button + phone icon
+
+Navbar behavior:
+
+Sticky on scroll (small height reduction)
+
+On mobile: burger menu + sticky WhatsApp button
+
+B) Hero Section (Home)
+
+Two-column layout on desktop:
+
+Left column:
+
+Big headline: “Printer Toner Sales & Ordering”
+
+Short subtext
+
+Primary CTA: “Order on WhatsApp”
+
+Secondary CTA: “View Supported Brands”
+
+Small trust row (mini badges): “Genuine + Compatible”, “Optional Delivery”, “Fast Response”
+
+Right column:
+
+A product visual (toner cartridge / abstract graphic)
+
+Optional: “CMYK ribbon” behind it (subtle)
+
+Mobile:
+
+Stack text then image
+
+CTA stays visible
+
+C) “How It Works” Stepper
+
+3 steps with icons:
+
+Send printer model
+
+Confirm availability & price
+
+Delivered to your location
+
+Make it a horizontal stepper on desktop, vertical cards on mobile.
+
+D) Brand Grid
+
+A grid of brand cards:
+
+HP, Canon, Brother, Epson, Samsung
+Each card:
+
+Brand name + tiny note “Laser toner support”
+
+Small coloured corner accent (alternate CMYK lightly)
+
+Clickable → leads to Toner Brands page.
+
+E) Value Proposition Cards (3)
+
+This is your “Why Choose Us” section.
+
+3 cards:
+
+Optional delivery
+
+Genuine & Compatible Options
+
+WhatsApp Ordering
+
+These cards can use a small coloured top border:
+
+Cyan / Magenta / Yellow
+
+F) “Order Strip” CTA (Conversion strip)
+
+Full-width band near bottom:
+
+Text: “Need toner? Message us now.”
+
+Button: “Order on WhatsApp”
+
+Background: a subtle gradient or pattern using very faint CMYK dots (like printer halftone pattern)
+
+G) Footer
+
+Clean and structured:
+
+Contact info
+
+Operating hours
+
+“Based in Victoria, Delivery available for some orders”
+
+Quick links
+
+Social icons (optional, only if you want)
+
+7) Page-by-Page Breakdown
+Page 1 — Home (Conversion landing)
+
+Order of sections:
+
+Navbar
+
+Hero
+
+How It Works (3 steps)
+
+Brand Grid
+
+Value Prop Cards
+
+FAQ mini (3 questions only)
+
+CTA strip
+
+Footer
+
+Mini FAQ (3 only)
+
+Keep it simple:
+
+“How do I know which toner I need?”
+
+“Do you have genuine toner?”
+
+“How do I order?”
+
+This boosts trust without adding complexity.
+
+Page 2 — Toner Brands (SEO + credibility)
+
+Layout:
+
+Page header: “Toner Brands We Supply”
+
+Intro paragraph (SEO-friendly)
+
+Brand sections (accordion or cards)
+
+Recommended structure:
+Use accordion panels to keep it neat.
+
+Each brand accordion contains:
+
+Short description
+
+“What to send us” list:
+
+Printer model
+
+Old cartridge code (if available)
+
+CTA button: “Order this brand on WhatsApp”
+
+Add a “Not sure?” helper card at the bottom:
+
+“Send us a photo of your cartridge label on WhatsApp.”
+
+That’s extremely realistic.
+
+Page 3 — Contact
+
+This must be “WhatsApp-first”:
+
+Top section:
+
+Big WhatsApp button
+
+Phone + email
+
+Then:
+
+Simple contact form (Foundation feature)
+
+Form fields:
+
+Name
+
+Phone
+
+Printer model (optional)
+
+Message
+
+Below:
+
+Operating hours
+
+Service area note (Delivery available for some orders)
+
+No map (no storefront).
+
+8) Motion & Interaction (Keep It Minimal)
+
+Because Foundation = structured and not overly animated.
+
+What to include (good)
+
+Navbar shrink on scroll
+
+Smooth scroll to sections
+
+Button hover states
+
+Card hover lift (tiny)
+
+Accordion open/close animation
+
+Optional micro-animation (tasteful)
+
+On scroll, fade-up sections as they enter viewport (very subtle)
+
+Brand cards fade in with slight delay
+
+What NOT to include
+
+Heavy parallax
+
+Complex scroll storytelling
+
+Big text animations
+
+Sticky multi-layer effects
+
+You want “professional small business”, not “agency experimental”.
+
+9) Imagery & Graphics
+
+You have two strong choices:
+
+Option A (best for realism)
+
+Use product photos:
+
+Toner cartridge photo
+
+Close-up “toner powder texture” background (subtle)
+
+Printer tray / office desk photo (generic)
+
+Option B (best for brand identity without photos)
+
+Use vector/3D illustration:
+
+A stylized toner cartridge
+
+CMYK dots / print marks
+
+For your demo, Option B is safer (no real product image licensing issues).
