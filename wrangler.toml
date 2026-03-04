@@ -1,0 +1,12 @@
+name = "demo-beauty"
+main = "worker.js"
+compatibility_date = "2026-03-04"
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+
+[[routes]]
+pattern = "demo-beauty.horizondigitalsey.com/*"
+custom_domain = true

@@ -1,6 +1,6 @@
-# SeyKelz Foundation Demo
+# Glow Beauty Supplies Demo
 
-Three-page Foundation demo website for SeyKelz (Home, Toner Brands, Contact). The layout follows the Foundation constraints with WhatsApp-first conversion and CMYK-inspired styling.
+Foundation package demo website for Glow Beauty Supplies (Home, Product Categories, Contact).
 
 ## Run locally
 
@@ -9,8 +9,19 @@ npm install
 npm run dev
 ```
 
-## Structure
+## Cloudflare Workers Deploy
 
-- `src/App.jsx` — page layout and copy
-- `src/index.css` — design system and components
-- `src/assets/brands` — HP, Canon, Epson logos
+Build and deploy this Vite app as a Workers static-assets project:
+
+```bash
+npm run cf:deploy
+```
+
+Configured custom domain route:
+
+- `https://demo-beauty.horizondigitalsey.com/`
+
+Files used for Workers deployment:
+
+- `wrangler.toml`
+- `worker.js`

@@ -6,6 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "cf:build": "npm run build",
+    "cf:deploy": "npm run build && npx wrangler deploy",
+    "cf:dev": "npm run build && npx wrangler dev",
     "lint": "eslint .",
     "preview": "vite preview"
   },
