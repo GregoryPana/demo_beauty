@@ -8,5 +8,5 @@ binding = "ASSETS"
 not_found_handling = "single-page-application"
 
 [[routes]]
-pattern = "demo-beauty.horizondigitalsey.com/*"
+pattern = "demo-beauty.horizondigitalsey.com"
 custom_domain = true

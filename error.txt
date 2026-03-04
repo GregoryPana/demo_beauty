@@ -1,3 +1,12 @@
 Cloudflare build/deploy error log
 
-Paste latest Wrangler/Cloudflare error output here for troubleshooting history.
+2026-03-04: Build succeeded, deploy failed on route validation.
+Error:
+- Invalid Routes
+- demo-beauty.horizondigitalsey.com/*
+- Wildcard operators (*) are not allowed in Custom Domains
+- Paths are not allowed in Custom Domains
+
+Fix applied:
+- Updated wrangler route pattern to custom-domain format without wildcard/path:
+  demo-beauty.horizondigitalsey.com
